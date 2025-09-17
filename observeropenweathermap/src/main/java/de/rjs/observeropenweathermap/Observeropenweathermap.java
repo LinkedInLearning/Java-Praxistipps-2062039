@@ -165,7 +165,7 @@ class LoggerObserver implements WeatherObserver {
 
 public class Observeropenweathermap {
     public static void main(String[] args) {
-        String apiKey = "b0a17f4a476d2bcffc555e925a93fc3e"; // <- hier deinen OpenWeatherMap Key eintragen
+        String apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // <- hier  OpenWeatherMap Key eintragen
         String city = "Mainz,de";
 
         OpenWeatherMapSubject subject = new OpenWeatherMapSubject(city, apiKey, 5 * 60 * 1000); // alle 5 Minuten
