@@ -1,6 +1,6 @@
-# [DE-Kursname hier eintragen]
+# Java Praxistipps: Jede Woche neu
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Java Praxistipps: Jede Woche neu`. Den gesamten Kurs finden Sie auf [LinkedIn Learning]https://www.linkedin.com/learning/java-praxistipps-jede-woche-neu/.
 
 ![COURSENAME][lil-thumbnail-url] 
 
