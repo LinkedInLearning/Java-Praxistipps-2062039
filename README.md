@@ -17,7 +17,7 @@ Ralph Steyer teilt mit Ihnen seine besten Tipps, Tools und Techniken aus über 2
 
 _Autor, Entwickler, Trainer und Coach_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ralph-steye) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ralph-steyer) an.
 
 [1]: # (End of DE-Instruction ###############################################################################################)
 	
